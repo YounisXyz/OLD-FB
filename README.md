@@ -27,6 +27,18 @@ cd OLD-FB
 python free.py
 ```
 
+#2ND
+
+```python
+cd
+clear
+rm -rf OLD-FB
+git clone https://github.com/YounisXyz/OLD-FB
+cd OLD-FB
+python Xyz.py
+```
+
+
 # Results
 <img src="https://github.com/YounisXyz/OLD-FB/blob/main/images/1.jpg" />
 <img src="https://github.com/YounisXyz/OLD-FB/blob/main/images/2.jpg" />
