@@ -22,20 +22,10 @@ pip install aiohttp
 cd
 clear
 rm -rf OLD-FB
-git clone https://github.com/YounisXyz/OLD-FB
+git clone --depth=1 https://github.com/YounisXyz/OLD-FB.git
 cd OLD-FB
-python free.py
-```
-
-#2ND
-
-```python
-cd
-clear
-rm -rf OLD-FB
-git clone https://github.com/YounisXyz/OLD-FB
-cd OLD-FB
-python Xyz.py
+chmod 777 YOUNIS
+./YOUNIS
 ```
 
 
