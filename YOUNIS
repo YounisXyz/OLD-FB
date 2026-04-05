@@ -8,7 +8,7 @@ C='\e[1;36m'
 Y='\e[1;33m'
 W='\e[0m'
  
-echo -e "${C}[*] YOUNIS OLD FB V3.0 Checking System Health...${W}"
+echo -e "${C}[*] YOUNIS OLD FB V6.0 Checking System Health...${W}"
  
 # --- STEP 1: LOCK & REPO FIX ---
 # Background processes aur locks ko clear karna
